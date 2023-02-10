@@ -1,1 +1,1 @@
-# Crud com Local Storage, HTML, CSS e JavaScript
+# Crud com LocalStorage, HTML, CSS e JavaScript
